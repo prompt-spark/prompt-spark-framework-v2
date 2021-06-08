@@ -2,6 +2,7 @@
 
 <img align="right" width="411" height="241" src="https://github.com/prompt-spark/prompt-scala-framework/blob/master/project/assets/PROMPT_logo.png?raw=true">
 
+<em>Data layer module has been implemented as a part of example. </em>
 
 ## Table of Contents
 
